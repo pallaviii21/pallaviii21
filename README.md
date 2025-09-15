@@ -102,7 +102,7 @@ Here are a few of my recent projects:
 [![](https://visitcount.itsvg.in/api?id=pallaviii21&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
-# 📊 Leetcode Stats:
+# 📈 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pallaviii_07?theme=dark&font=Karma&ext=heatmap)
 
 
