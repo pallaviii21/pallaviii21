@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pallavi!
+#  Hi, I'm Pallavi!
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who loves building scalable, efficient, and user-friendly web applications. 
 
