@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who loves building scalable, efficient, and user-friendly web applications. 
 
 ---
-
+![](https://komarev.com/ghpvc/?username=pallaviii21&color=blue)
 ## 🚀 Skills & Expertise
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
